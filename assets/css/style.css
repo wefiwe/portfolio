@@ -1,0 +1,8 @@
+body{
+    background: url('../img/IMG_0527.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* position: relative; */
+    /* height: 100vh; */
+}
